@@ -14,11 +14,11 @@ public class SampleController {
 	{
 
 		Employee emp1 = new Employee();
-		emp1.setName("Name1");
+		emp1.setName("Suresh");
 		emp1.setNumber(100);
 		
 		Employee emp2 = new Employee();
-		emp2.setName("Name2");
+		emp2.setName("Bablu");
 		emp1.setNumber(200);
 		
 		List<Employee> empList = new ArrayList<Employee>();
